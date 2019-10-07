@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="oauth2tests:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="oauth2tests.war">
-      <element id="artifact" artifact-name="oauth2tests:war exploded" />
-    </root>
-  </artifact>
-</component>
